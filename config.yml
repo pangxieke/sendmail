@@ -1,0 +1,12 @@
+server:
+  log: "./mail.log"
+
+mail:
+  host: smtp.exmail.qq.com
+  port: 465
+  sender: pangxieke@126.com
+  pwd: "****"
+
+redis:
+  address: "127.0.0.1:6379"
+
